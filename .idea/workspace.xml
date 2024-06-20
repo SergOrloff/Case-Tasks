@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1f5fbb0-8f3f-4c96-9eba-b1333e75f99e" name="Changes" comment="">
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/.idea/MyFirstProjectTk.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/Bot_ReminderDrinkMedice.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/Tasks.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/about.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/about_bot.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/bold.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/canvas.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/export.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/hw.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/import.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/med.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/med_txt.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/med_txt1.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/p07_1.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/p07_2.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/p07_dz(rus).py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/p08_dz_case_Task.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/po7_dz.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/proba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Case-Accounting-for-tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Case-Accounting-for-tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2i93Tq4KFNuT4HAKyO8awfkjthS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.case_Task.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Саша/PycharmProjects/MyFirstProjectTk"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1f5fbb0-8f3f-4c96-9eba-b1333e75f99e" name="Changes" comment="" />
+      <created>1718888975254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718888975254</updated>
+    </task>
+    <servers />
+  </component>
+</project>

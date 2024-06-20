@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Case-Accounting-for-tasks.iml" filepath="$PROJECT_DIR$/.idea/Case-Accounting-for-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Case-ReminderDrinkMedice/.idea/My-first-repository.iml" filepath="$PROJECT_DIR$/../Case-ReminderDrinkMedice/.idea/My-first-repository.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/MyFirstProjectTk/.idea/MyFirstProjectTk.iml" filepath="$USER_HOME$/PycharmProjects/MyFirstProjectTk/.idea/MyFirstProjectTk.iml" />
     </modules>
   </component>
 </project>

@@ -4,5 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.12 (Case-Accounting-for-tasks)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="My-first-repository" />
+    <orderEntry type="module" module-name="MyFirstProjectTk" />
   </component>
 </module>
